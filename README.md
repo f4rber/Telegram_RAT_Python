@@ -1,6 +1,7 @@
 # TelegRAT_Python
 Telegram RAT written in Python
 
+Some of the commands need arguments. Example: /download txt.txt or /download D:\Test\MyTextFiles\txt.txt
 ```
 Bot Commands:
 [01] Start.
